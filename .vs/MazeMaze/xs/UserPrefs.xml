@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{984FEB58-E87E-29B1-1E43-DB9EC4EE285A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Goal.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GravityController.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="10" Column="9" />
+      <File FileName="Assets/Scripts/TiltRig.cs" Line="7" Column="27" />
+      <File FileName="Assets/Scripts/Trap.cs" Line="25" Column="32" />
+      <File FileName="Assets/Scripts/Goal.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
